@@ -3,4 +3,4 @@ function isNullOrEmpty(input) {
      return (input === undefined || input === null || input === '');
  }
  // Export to make the function available to other packages
- module.exports = isNullOrEmpty;
+ module.exports = isNullOrEmpty; 
